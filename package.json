@@ -1,0 +1,20 @@
+{
+  "name": "mern_authentication_app",
+  "version": "1.0.0",
+  "description": "This is a boilerplate MERN React app using Passport and Google SSO",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajperkins92/MERN_Authentication_App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajperkins92/MERN_Authentication_App/issues"
+  },
+  "homepage": "https://github.com/ajperkins92/MERN_Authentication_App#readme"
+}
